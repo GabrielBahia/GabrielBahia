@@ -13,6 +13,7 @@
   <li> 💼 I am working at <a href="https://codejr.com.br/" target="_blank">Code Empresa Júnior</a>;</li> <br>
   <li> 👨‍💻 Computer Science Student at <a href="https://www2.ufjf.br/ufjf/">Universidade Federal de Juiz de Fora</a> ;</li> <br>
   <li> 📚 I am learning PHP/Laravel;</li> <br>
+  <li> 📧 Email: gabrielgbahia@gmail.com;</li> <br>
   <li> 📍 I am from Juiz de Fora, Minas Gerais, Brazil;</li> <br>
 </ul>
 
@@ -21,7 +22,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielBahia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBahia&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
+ 
   </br>
 <div>
   <h1>Programing Languages:</h1>
